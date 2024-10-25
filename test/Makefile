@@ -5,7 +5,7 @@
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = tt_um_revenantx86_tinytpu.v dff_mem.v input_control.v mac.v output_control.v systolic.v tinytpu_top.v
+PROJECT_SOURCES = dff_mem.v input_control.v mac.v output_control.v systolic.v tinytpu_top.v tt_um_revenantx86_tinytpu.v
 
 ifneq ($(GATES),yes)
 
