@@ -137,7 +137,7 @@
     "DIE_AREA": [
         0,
         0,
-        334.88,
+        161,
         225.76
     ],
     "EXTRA_EXCLUDED_CELLS": null,
@@ -225,7 +225,7 @@
     "PDN_CONNECT_MACROS_TO_GRID": true,
     "PDN_MACRO_CONNECTIONS": null,
     "PDN_ENABLE_GLOBAL_CONNECTIONS": true,
-    "FP_DEF_TEMPLATE": "/home/unixpoly/vlsi/projects/digital/tt09-TinyTPU-Reforged/tt/def/tt_block_2x2_pg.def",
+    "FP_DEF_TEMPLATE": "/home/unixpoly/vlsi/projects/digital/tt09-TinyTPU-Reforged/tt/def/tt_block_1x2_pg.def",
     "STA_MACRO_PRIORITIZE_NL": true,
     "STA_MAX_VIOLATOR_COUNT": null,
     "EXTRA_SPEFS": null,
@@ -284,7 +284,7 @@
         0,
         0
     ],
-    "PL_TARGET_DENSITY_PCT": 60,
+    "PL_TARGET_DENSITY_PCT": 80,
     "PL_SKIP_INITIAL_PLACEMENT": false,
     "PL_WIRE_LENGTH_COEF": 0.25,
     "PL_MIN_PHI_COEFFICIENT": null,
