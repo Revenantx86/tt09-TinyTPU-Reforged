@@ -2,7 +2,6 @@
 .idea
 *.vcd
 runs
-tt*
 src/user_config.json
 src/config_merged.json
 test/sim_build
