@@ -2,8 +2,7 @@
 .idea
 *.vcd
 runs
-tt_submission
-tt
+tt*
 src/user_config.json
 src/config_merged.json
 test/sim_build
